@@ -320,9 +320,12 @@ h2 {
     position: static;
     flex-direction: row;
     justify-content: flex-end;
-    gap: 2.5rem;
+    gap: 5rem;
     height: auto;
     transform: translateX(0%);
+  }
+  .header__nav--menu li a {
+    font-size: 1.2rem;
   }
   .header__nav h3 {
     font-size: 1.5rem;
