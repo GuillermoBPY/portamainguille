@@ -21,6 +21,7 @@
   font-family: "Roboto", sans-serif;
   -webkit-tap-highlight-color: transparent;
   color: var(--White);
+  scroll-behavior:smooth;
 }
 
 html {
