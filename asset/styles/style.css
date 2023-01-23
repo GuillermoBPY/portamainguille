@@ -203,7 +203,7 @@ h2 {
 }
 
 .main__figure {
-  background-color: var(--Purecyan);
+  background-color: #1494af;
   position: relative;
   width: 250px;
 }
@@ -215,6 +215,7 @@ h2 {
   left: -17px;
 }
 .main__figure--svg {
+  
   position: absolute;
   top: 40px;
   left: -6px;
